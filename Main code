@@ -1,6 +1,9 @@
-<script  referrerpolicy="no-referrer-when-downgrade"  src="https://svm-api-flexfunnel.novusoft.nl/api/funnel/intergrate.js?id=fbd091ad-697c-48c6-9ef3-7c5027d2845c:Bovag&DealerId=AutomobielbedrijfVanDerKwaak"
-onerror="window.onload  =  function  ()  {  document.getElementById('nd-loader-error').style.display  = 'block'}"></script>
-
-<div  id="nd-loader-error"  style="display:  none;">
-        Het gevraagde formulier is momenteel niet beschikbaar. <br  /><br  />
-        Neem contact met ons op zodat wij u telefonisch van dienst kunnen zijn.</div>
+<!doctype html>
+<html lang="nl">
+<meta charset="utf-8">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Verzekeringsfunnel</title>
+<body style="margin:0;padding:0">
+<script src="https://svm-api-flexfunnel.novusoft.nl/api/funnel/integrate.js?id=fbd091ad-697c-48c6-9ef3-7c5027d2845c:Bovag&DealerId=AutomobielbedrijfVanDerKwaak"></script>
+</body>
+</html>
